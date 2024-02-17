@@ -1,0 +1,156 @@
+* {
+    margin: o;
+    padding: 0;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+    background-color: #fff;
+   
+}
+
+.navbar__title {
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width:150px;
+    height:150px;
+   
+    padding:5px 10px;
+    margin-left: 100px;
+   margin-top: 10px;
+   
+}
+
+.search__icon {
+margin-left: 950px;
+ padding: 50px 10px;
+ 
+
+ 
+}
+
+.search__icon:hover {
+    cursor: pointer;
+   
+}
+
+.hamburger__icon {
+    margin-right: 100px;
+    padding: 50px 10px;
+
+}
+
+.hamburger__icon:hover {
+cursor: pointer;
+}
+
+.img__logo {
+    border-radius: 10px;
+    box-shadow: 0 25px 50px -12px rgb(0 0 0 / 25%);
+    
+}
+
+.card-body {
+    font-family:"Playfair Display", serif;
+    font-size: x-large;
+}
+
+.card__text  {
+    font-size: xx-large;
+    font-weight: 800;
+}
+
+
+.summary__text {
+    font-family:"Playfair Display", serif;
+    font-size: xx-large;
+    font-weight: 800;
+    margin-left: 110px;
+}
+a {
+    text-decoration: none !important; 
+  }
+  
+  a:hover {
+    text-decoration: none !important;
+  }
+  
+  .text {
+    font-family:"Playfair Display", serif;
+    font-size: xx-large;
+    font-weight:800;
+    margin-left: 110px;
+  }
+
+
+
+  .bi {
+    margin-left: 110px;
+    
+  }
+
+  .checkbox  {
+    display: flex;
+  }
+
+ 
+   
+  
+  .text2 {
+    margin-left: 30px;
+    font-size: large;
+  }
+
+  .flex {
+    display: flex;
+    
+  }
+
+  .text3 {
+    margin-left: 400px;
+  }
+
+  .checkbox3 {
+    margin-left: 670px;
+    margin-top: -730px;
+  }
+
+  .checkbox2 {
+    display: flex;
+    margin-right: 110px;
+  }
+
+  .footer__sec {
+    display: flex;
+align-items: center;
+justify-content: space-around;
+position: relative;
+
+}
+
+.footer__bg {
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(
+        to right,
+        #FFB996 0%,
+        #FFB996 51%,
+        #FFB996 100%
+     );
+     z-index: -3;
+}
+
+.card:hover {
+  transform: translate(-5px,-10px);
+  box-shadow: 0 25px 50px -12px rgb(0 0 0 / 25%);
+  
+}
+
+  
+
+  
